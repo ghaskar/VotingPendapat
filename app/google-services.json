@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307140785195",
+    "project_id": "kalender-asma",
+    "storage_bucket": "kalender-asma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307140785195:android:935461523ace5b8857a66e",
+        "android_client_info": {
+          "package_name": "com.kalender.asma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGkQold5djlVS_9RbjIO5yGetkScBrdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
